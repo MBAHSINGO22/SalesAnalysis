@@ -25,16 +25,6 @@ Proyek ini mencakup:
 
 ---
 
-## 📂 Struktur Proyek
-
-```
-SalesAnalysis/
-├── Quiz.ipynb        # Notebook analisis penjualan
-└── README.md         # Dokumentasi proyek
-```
-
----
-
 ## 🧰 Teknologi
 
 - Python 3.10+
