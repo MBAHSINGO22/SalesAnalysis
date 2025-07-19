@@ -41,11 +41,6 @@ Proyek ini mencakup:
 pip install pandas matplotlib seaborn
 ```
 
-### 2️⃣ Jalankan notebook
-```bash
-jupyter notebook Quiz.ipynb
-```
-
 > Notebook akan menampilkan analisis penjualan, grafik tren, dan ringkasan data.
 
 ---
