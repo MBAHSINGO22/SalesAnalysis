@@ -1,4 +1,4 @@
-<h1 align="center">💼 SalesAnalysis</h1>
+<h1 align="center">💼 Sales Analysis</h1>
 <p align="center">
   <b>Analisis Data Penjualan Menggunakan Python</b><br>
   <sub>Eksplorasi performa penjualan, tren, dan visualisasi menggunakan Pandas & Matplotlib</sub>
@@ -42,7 +42,6 @@ pip install pandas matplotlib seaborn
 ```
 
 > Notebook akan menampilkan analisis penjualan, grafik tren, dan ringkasan data.
-
 ---
 
 ## 📌 Insight
